@@ -6,6 +6,6 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ## 📂 Projects Included
 
- - **BinarytoDecimal.py**: A program that converts binary digits to human-readable decimal digits.
+ - **BinarytoDecimal**: A program that converts binary digits to human-readable decimal digits.
 
 ---
