@@ -1,5 +1,5 @@
-# NO SAVE FEATURE YET
-# So yes, it's pretty much useless
+# VERSION 1.1: Properly adds, deletes, lists, and searches for your passwords. No Save Feature
+
 import time
 
 Running = True
