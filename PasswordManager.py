@@ -1,3 +1,5 @@
+# NO SAVE FEATURE YET
+# So yes, it's pretty much useless
 import time
 
 Running = True
