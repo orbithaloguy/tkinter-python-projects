@@ -1,4 +1,4 @@
-# VERSION 1.0: Properly adds, deletes, lists, and searches for your passwords. No Save Feature
+# VERSION 1.0: Properly adds, deletes, lists, and searches for your passwords. No Save Feature or Password Generation (yet)
 
 import time
 
