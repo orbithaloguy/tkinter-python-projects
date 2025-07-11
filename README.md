@@ -13,6 +13,6 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 ## ⏭️ UpComing Projects
 
  - **PasswordManager** : Safely *save*, *encrypt*, and *manage* your passwords in one place
- - **GUI Calculator** : A simple GUI Calculator capable of basic arithmetic operations
+ - **GUICalculator** : A simple GUI Calculator capable of basic arithmetic operations
 
 ---
