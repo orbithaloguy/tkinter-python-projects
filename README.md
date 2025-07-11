@@ -4,7 +4,7 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ---
 
-## 📂 Projects Included
+## 📂 Completed Projects
 
  - **BinarytoDecimal**: A program that converts binary digits to human-readable decimal digits
 
