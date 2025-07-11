@@ -1,3 +1,4 @@
+# WARNING: For a valid operation, keep the code in a folder of the same name (' Password Manager ')
 import time
 import json
 import os
