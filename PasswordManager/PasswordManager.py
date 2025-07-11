@@ -1,4 +1,4 @@
-# WARNING: For a valid operation, keep the code in a folder of the same name (' Password Manager ')
+# WARNING: For a valid operation, keep the code in a folder of the same name (' PasswordManager ')
 import time
 import json
 import os
