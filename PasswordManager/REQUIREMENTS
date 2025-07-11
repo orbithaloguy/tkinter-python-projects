@@ -1,6 +1,6 @@
 cryptography==45.0.5 (Latest Version for Optimal Performance)
 
-How To Install:
+How To Install Cryptography:
 1- Verify that Python and Pip are installed by inputting: python --version and pip --version in the Terminal.
 2- Navigate to the Terminal or Bash
 3- Input: pip install cryptography
