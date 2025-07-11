@@ -13,3 +13,5 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 ## ⏭️ UpComing Projects
 
  - **PasswordManager** : Safely *save*, *encrypt*, and *manage* your passwords in one place.
+
+---
