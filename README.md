@@ -17,6 +17,6 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 ---
 
 📜 
-<u> *Disclaimer:* </u>This software is provided for educational and demonstration purposes only.
-It is not intended for storing sensitive, personal, or production data.
+<u> *Disclaimer:* </u>These softwares are provided for educational and demonstration purposes only.
+They are not intended for storing sensitive, personal, or production data.
 Use it at your own risk. The author makes no warranties or guarantees of any kind, and is not liable for any loss, damage, or security breach resulting from the use of this software.
