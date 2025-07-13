@@ -6,13 +6,15 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ## 📂 Completed Projects
 
- - **BinarytoDecimal**: A program that converts binary digits to human-readable decimal digits
+ -  **BinarytoDecimal**: A program that converts binary digits to human-readable decimal digits
  -  **PasswordManager** : Safely *save*, *encrypt*, and *manage* your passwords in one place
+ -  **GUICalculator** : A simple GUI Calculator capable of basic arithmetic operations
+
 ---
 
 ## ⏭️ UpComing Projects
 
- - **GUICalculator** : A simple GUI Calculator capable of basic arithmetic operations
+ - **GUITodoList** :  A basic GUI todo list with basic functionality made with tkinter and python
 
 ---
 
