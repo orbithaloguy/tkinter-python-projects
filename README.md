@@ -1,10 +1,10 @@
-# 🐍 **Simple Python Projects**
+## **Simple Python Projects**
 
 Welcome to **Simple Python Projects**. A collection of small, beginner-friendly Python scripts for learning, practice, and showcasing core programming concepts in Python 3.
 
 ---
 
-## 📂 Completed Projects
+## Completed Projects
 
  -  **BinarytoDecimal**: A program that converts binary digits to human-readable decimal digits
  -  **PasswordManager** : Safely *save*, *encrypt*, and *manage* your passwords in one place
@@ -12,7 +12,7 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ---
 
-## ⏭️ UpComing Projects
+## UpComing Projects
 
  - **GUITodoList** :  A basic GUI todo list with basic functionality made with tkinter and python
 
