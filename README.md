@@ -44,11 +44,11 @@ These projects are perfect for:
 
 ## Project Structure
   │
-  ├── text_editor/
+  ├── text_editor
   │ └── text_editor.py
-  ├── gui_todo_list/
+  ├── gui_todo_list
   │ └── todo_list.py
-  ├── calculator/
+  ├── calculator
   │ └── calculator.py
   └── README.md
 
