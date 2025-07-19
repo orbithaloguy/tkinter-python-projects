@@ -1,6 +1,6 @@
-# Simple Tkinter Python Projects
+# Tkinter Python Projects
 
-Welcome to **Simple Tkinter Python Projects** — a collection of small, beginner-friendly GUI applications built using Python's built-in **Tkinter** library.
+Welcome to **Tkinter Python Projects** — a collection of small, beginner-friendly GUI applications built using Python's built-in **Tkinter** library.
 
 These projects are perfect for:
 - Learning Python GUI programming
