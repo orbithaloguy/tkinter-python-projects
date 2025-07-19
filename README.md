@@ -42,26 +42,14 @@ These projects are perfect for:
 
 ---
 
-## Project Structure
-  │
-  ├── text_editor
-  │ └── text_editor.py
-  ├── gui_todo_list
-  │ └── todo_list.py
-  ├── calculator
-  │ └── calculator.py
-  └── README.md
-
----
-
-## 🐍 Requirements
+## Requirements
 
 - Python 3.x  
 - Tkinter (comes pre-installed with standard Python)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone this repo:
 
