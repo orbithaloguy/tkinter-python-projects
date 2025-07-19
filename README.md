@@ -56,8 +56,9 @@ Clone this repo:
 ```bash
 git clone https://github.com/your-username/simple-tkinter-python-projects.git
 cd simple-tkinter-python-projects
-```bash
-📜 
+```
+---
+
 <u> *Disclaimer:* </u>These softwares are provided for educational and demonstration purposes only.
 They are not intended for storing sensitive, personal, or production data.
 Use it at your own risk. The author makes no warranties or guarantees of any kind, and is not liable for any loss, damage, or security breach resulting from the use of these softwares.
