@@ -55,7 +55,7 @@ Clone this repo:
 
 ```bash
 git clone https://github.com/orbithaloguy/tkinter-python-projects.git
-cd simple-tkinter-python-projects
+cd tkinter-python-projects
 ```
 ---
 
