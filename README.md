@@ -17,7 +17,7 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ## UpComing Projects
 
- - - **GUIWeatherApp**: A graphical program with real-time weather application using an external API to display current conditions and forecasts by city or location.
+ - - **GUI Weather App**: A graphical program with real-time weather application using an external API to display current conditions and forecasts by city or location.
 
 ---
 
