@@ -22,7 +22,7 @@ These projects are perfect for:
 
 ---
 
-## 🚧 Upcoming Projects
+## Upcoming Projects
 
 - **Weather App (Static)**  
   A GUI that displays mock weather info for selected cities. Ideal for practicing layout and widget design (no API).
