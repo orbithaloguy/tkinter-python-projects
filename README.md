@@ -17,7 +17,7 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ## UpComing Projects
 
- - **GUITodoList** :  A basic GUI todo list with basic functionality made with tkinter and python
+ - - **GUIWeatherApp**: A graphical program with real-time weather application using an external API to display current conditions and forecasts by city or location.
 
 ---
 
