@@ -6,9 +6,12 @@ Welcome to **Simple Python Projects**. A collection of small, beginner-friendly 
 
 ## Completed Projects
 
- -  **BinarytoDecimal**: A program that converts binary digits to human-readable decimal digits
- -  **PasswordManager** : Safely *save*, *encrypt*, and *manage* your passwords in one place
- -  **GUICalculator** : A simple GUI Calculator capable of basic arithmetic operations
+- **GUITextEditor**: A sleek and user-friendly text editor built with Tkinter. Supports creating, opening, and saving files, with additional features like zoom in/out and customizable light/dark mode.
+- **GUItodolist**: A minimalist to-do list application made with Tkinter, allowing users to efficiently add and remove tasks in a simple interface.
+- **GUICalculator**: A clean and responsive graphical calculator that performs basic arithmetic operations. Ideal for quick calculations within a simple GUI.
+- **PasswordManager**: A secure application to save, encrypt, and manage your passwords. Designed with privacy and simplicity in mind.
+- **BinarytoDecimal**: A lightweight converter that transforms binary digits into readable decimal numbers. Perfect for learners and quick number conversions.
+
 
 ---
 
