@@ -54,7 +54,7 @@ These projects are perfect for:
 Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/simple-tkinter-python-projects.git
+git clone https://github.com/orbithaloguy/tkinter-python-projects.git
 cd simple-tkinter-python-projects
 ```
 ---
