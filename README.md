@@ -23,10 +23,8 @@ These projects are perfect for:
 ---
 
 ## Upcoming Projects
- - **Simple Pixel Editor**
-  A simple pixel editor that allows you to draw, save and export your drawings.
-- **Weather App (Static)**  
-  A GUI app that displays mock weather info for selected cities. Ideal for practicing layout and widget design (no API).
+- **Weather App (With API)**  
+  A GUI app that showcases weather and other properties of the desired country or city.
 
 - **Unit Converter**  
   A unit conversion tool supporting categories like length, weight, and temperature, all via dropdown menus.
