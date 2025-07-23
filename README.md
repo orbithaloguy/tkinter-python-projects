@@ -13,15 +13,15 @@ These projects are perfect for:
 
 - **Text Editor**  
   A sleek and user-friendly text editor. Features include creating, opening, and saving files, zoom controls, and light/dark theme toggling.
-
+  
+- **Weather App (With API)**  
+  A GUI app that showcases the weather of the desired country or city by using an extrenal API.
+  
 - **GUI Todo List**  
   A clean to-do list app that lets users add and remove tasks with a simple and intuitive interface.
 
 - **Calculator**  
   A basic calculator supporting addition, subtraction, multiplication, and division using a responsive button layout.
-  
-  - **Weather App (With API)**  
-  A GUI app that showcases the weather of the desired country or city by using an extrenal API.
 
 ---
 
