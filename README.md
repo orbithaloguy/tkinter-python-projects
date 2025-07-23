@@ -19,12 +19,13 @@ These projects are perfect for:
 
 - **Calculator**  
   A basic calculator supporting addition, subtraction, multiplication, and division using a responsive button layout.
+  
+  - **Weather App (With API)**  
+  A GUI app that showcases the weather of the desired country or city by using an extrenal API.
 
 ---
 
 ## Upcoming Projects
-- **Weather App (With API)**  
-  A GUI app that showcases weather and other properties of the desired country or city.
 
 - **Unit Converter**  
   A unit conversion tool supporting categories like length, weight, and temperature, all via dropdown menus.
