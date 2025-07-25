@@ -37,7 +37,7 @@ These projects are perfect for:
 
 ## Notes
 
-- All apps are built with **pure Tkinter** and standard Python libraries (no external dependencies).
+- All apps are built with **pure Tkinter** and standard Python libraries, with the only exception being requests for the Text Editor..
 - Designed to be beginner-friendly, readable, and easy to customize.
 
 ---
