@@ -27,11 +27,7 @@ These projects are perfect for:
 
 ## Upcoming Projects
 
-- **Unit Converter**  
-  A unit conversion tool supporting categories like length, weight, and temperature, all via dropdown menus.
-
-- **Stopwatch / Timer**  
-  A digital stopwatch and countdown timer app using Tkinter labels, buttons, and `after()` functions.
+ - Done with Tkinter, moved on to PyQt5
 
 ---
 
